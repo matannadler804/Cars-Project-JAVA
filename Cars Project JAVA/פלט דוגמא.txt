@@ -1,0 +1,40 @@
+check If Vehicle MotorCycle [getModel()=Kawasaki, getSubModel()=b2] Exist In System
+Result:true
+Most Low Price Car:
+Vehicle [model=Mazda, subModel=3, price=10000.0]
+Price : 10000.0
+Number Of Black Motor Cycles In Map OF vehicles  : 1
+Sorted Vehicles => By Prices
+Vehicle [model=Mazda, subModel=6, price=400000.0]
+Vehicle [model=Mazda, subModel=cx-5, price=300000.0]
+Vehicle [model=BMW, subModel=3, price=200000.0]
+Vehicle [model=Kia, subModel=Picanto, price=125000.0]
+Vehicle [model=Honda, subModel=Civic, price=120000.0]
+Vehicle [model=Honda, subModel=Jazz, price=110000.0]
+Vehicle [model=Kia, subModel=Forte, price=103000.0]
+Vehicle [model=BMW, subModel=1, price=100000.0]
+Vehicle [model=BMW, subModel=2, price=80000.0]
+Vehicle [model=Mazda, subModel=3, price=10000.0]
+Customer : 666666666 ,mail.gmail.com ,# of orders : 0
+Customer : 777777777 ,mail.gmail.com ,# of orders : 0
+Customer : 555555555 ,mail.gmail.com ,# of orders : 0
+Customer : 222222222 ,mail.gmail.com ,# of orders : 1
+Customer : 111111111 ,mail.gmail.com ,# of orders : 1
+Customer : 333333333 ,mail.gmail.com ,# of orders : 1
+Customer : 444444444 ,mail.gmail.com ,# of orders : 1
+validate Car Number Plate 111-ab-123: true
+validate Car Number Plate 111-aaa-123: false
+validate Car Number Plate 1abc: false
+validate Car Number Plate 1abcd: true
+Validate Model Input : true
+Validate Model Input : false
+Validate Phone Number : false
+Validate Phone Number : true
+Model : BMW stats : 
+Number Of Different Vehicles : 3
+max price for this model : 200000.0
+sum price for all vehicles of this model : 380000.0
+avg price for all vehicles of this model : 126666.66666666667
+Check allUniqueWords method
+c#-result-1-hi-2-3-world-java-hello-check-roni
+one-two-three-four*five*
